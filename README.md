@@ -43,7 +43,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img src="https://github.com/Yansuputod/Yansuputod/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Yansuputod/Yansuputod/blob/output/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/><br/>
 </div>
